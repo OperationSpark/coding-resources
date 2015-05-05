@@ -24,7 +24,7 @@ Starting from scratch? Try out Operation Spark's [first website lesson](https://
 - [Sublime Text](http://www.sublimetext.com/)
 
 ### Located in New Orleans? Try to attend a meetup!
-- (Front end party)(http://www.frontendparty.com/)
-- (gnocode)[http://www.meetup.com/gnocode/]
+- [Front end party](http://www.frontendparty.com/)
+- [gnocode][http://www.meetup.com/gnocode/]
 - [Hacknight](http://nolahacknight.com/)
 - [NOLA Game Developers](http://www.meetup.com/NOLA-Game-Developers/)
